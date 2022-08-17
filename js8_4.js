@@ -103,3 +103,4 @@ reduce-요소를 차로 돌면서 function 호출
 
 
 */
+
